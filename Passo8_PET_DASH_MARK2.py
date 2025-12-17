@@ -179,9 +179,10 @@ st.markdown("""
 **Base cartográfica:** OpenStreetMap<br>
 **Finalidade:** Planejamento em Saúde Pública<br><br>
 **Equipe:** Anne Karine Martins Assunção da Silva; Adilson Matheus Borges Machado; Jonatas da Silva Castro;<br>
-Alisson Freitas Santos Brandão da Silva; Luenne Sinara Ribeiro Pinheiro; Sônia Maria Silva Luz;<br>
-Lindomar Christian da Trindade Filho; Cleiciane Cordeiro Coutinho; Nalleny Perpétua dos Santos Marinho;<br>
-Cleyce Jane Costa Moraes; Alice Beatriz Tomaz Tavares; Enzo Marcos Costa Guterres; Lucas Gomes da Silva;<br>
+Alisson Freitas Santos Brandão da Silva; Luenne Sinara Ribeiro Pinheiro; Sônia Maria Silva Luz;
+Lindomar Christian da Trindade Filho; Cleiciane Cordeiro Coutinho; Nalleny Perpétua dos Santos Marinho;
+Cleyce Jane Costa Moraes; Alice Beatriz Tomaz Tavares; Enzo Marcos Costa Guterres; Lucas Gomes da Silva;
 Kauã de Assis Menezes Reis; Bruna Pereira Maia Silva; Geciane Pereira Aroucha;<br><br>
 **Desenvolvimento:** Adilson Matheus Borges Machado e Bruna Pereira Maia Silva
+
 """, unsafe_allow_html=True)
